@@ -1,0 +1,23 @@
+*_ignore*
+*_backup*
+*_bak.???
+**/*_bak/
+*_old.???
+**/*_old/
+*_WIP.*
+# **/*_WIP/
+*_tmp.???
+**/*_tmp/
+*_test.???
+#**/*_test/
+* - Copy.???
+**/* - Copy/
+*Shortcut.???
+*desktop.ini
+*_Override.ini
+Layouts/**/*ImgGen_*
+*PKL.exe
+EPKL_*xecutable*.zip
+*Notepad*_Session*
+**/_Inbox/*
+KeyboardVerify.log
